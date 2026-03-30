@@ -59,3 +59,24 @@ Convert string to character array and compare characters.
 
 ### Data Structure:
 char[]
+
+
+
+## UC5: Stack-Based Palindrome Checker
+
+### Goal:
+Use stack to reverse characters and validate palindrome.
+
+### Flow:
+1. Push characters into stack
+2. Pop and compare
+3. Print result
+
+### Key Concepts:
+- Stack (LIFO)
+- Push Operation
+- Pop Operation
+- Reversal Logic
+
+### Data Structure:
+Stack
