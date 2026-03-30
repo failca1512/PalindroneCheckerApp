@@ -1,20 +1,41 @@
 # PalindromeCheckerApp
-// running procedure 
-// flow of project:
+##running procedure 
+## flow of project:
 Program starts.
-//1.A hardcoded string (example: "madam") is declared.
-//2.The program checks whether the string is a palindrome.
-//3.A conditional statement compares the original string with the reversed string.
-//4.The result is printed on the console.
-//5.Program exits.
-//objective: To check weather a hardcore string is a palindrome
-//what are the topics it will be covered:
-//-Java Class
-//-Main Method
-//-Static Keyword
-//-String and String Literals
-//-Conditional Statements (if-else)
-//-Console Output (System.out.println)
-//-Basic String manipulation
-//-Program compilation and execution using terminal commands
-//Which Use case: PalindromeResult
+##1.A hardcoded string (example: "madam") is declared.
+##2.The program checks whether the string is a palindrome.
+##3.A conditional statement compares the original string with the reversed string.
+##4.The result is printed on the console.
+##5.Program exits.
+##objective: To check weather a hardcore string is a palindrome
+##what are the topics it will be covered:
+##-Java Class
+-Main Method
+-Static Keyword
+##-String and String Literals
+##-Conditional Statements (if-else)
+##-Console Output (System.out.println)
+##-Basic String manipulation
+##-Program compilation and execution using terminal commands
+##Which Use case: PalindromeResult
+
+
+
+## UC3: Palindrome Check Using String Reverse
+
+### Goal:
+Check whether a string is a palindrome by reversing it.
+
+### Flow:
+1. Reverse string using a for loop
+2. Compare original and reversed
+3. Display result
+
+### Key Concepts:
+- Loop (for loop)
+- String immutability
+- String concatenation (+)
+- equals() method
+
+### Data Structure:
+String
