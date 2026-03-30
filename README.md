@@ -39,3 +39,23 @@ Check whether a string is a palindrome by reversing it.
 
 ### Data Structure:
 String
+
+
+## UC4: Character Array Based Palindrome Check
+
+### Goal:
+Convert string to character array and compare characters.
+
+### Flow:
+1. Convert string to char[]
+2. Use two-pointer approach
+3. Compare start & end characters
+
+### Key Concepts:
+- Character Array (char[])
+- Array Indexing
+- Two-Pointer Technique
+- Time Complexity Awareness
+
+### Data Structure:
+char[]
