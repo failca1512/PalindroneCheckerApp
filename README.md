@@ -160,3 +160,19 @@ Check palindrome using recursion.
 
 ### Data Structure:
 Call Stack
+
+## UC10: Case-Insensitive & Space-Ignored Palindrome
+
+### Goal:
+Ignore spaces and case while checking a palindrome.
+
+### Flow:
+- Normalize string
+- Apply palindrome logic
+
+### Key Concepts:
+- String preprocessing
+- Regular expressions
+
+### Data Structure:
+String / Array
