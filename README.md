@@ -143,3 +143,20 @@ Check palindrome using singly linked list.
 
 ### Data Structure:
 Linked List
+
+## UC9: Recursive Palindrome Checker
+
+### Goal:
+Check palindrome using recursion.
+
+### Flow:
+- Recursive call compares start & end
+- Base condition exits recursion
+
+### Key Concepts:
+- Recursion
+- Base condition
+- Call stack
+
+### Data Structure:
+Call Stack
