@@ -176,3 +176,19 @@ Ignore spaces and case while checking a palindrome.
 
 ### Data Structure:
 String / Array
+
+## UC11: Object-Oriented Palindrome Service
+
+### Goal:
+Encapsulate palindrome logic in a class.
+
+### Flow:
+- Create PalindromeService class
+- Expose checkPalindrome() method
+
+### Key Concepts:
+- Encapsulation
+- Single Responsibility Principle
+
+### Data Structure:
+Internal (String / Array)
