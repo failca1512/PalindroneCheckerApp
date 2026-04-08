@@ -80,3 +80,47 @@ Use stack to reverse characters and validate palindrome.
 
 ### Data Structure:
 Stack
+
+
+
+
+## UC6: Queue vs Stack Palindrome Check
+
+### Goal:
+Demonstrate FIFO vs LIFO using Queue and Stack.
+
+### Flow:
+- Enqueue characters
+- Push characters to stack
+- Compare dequeue vs pop
+
+### Key Concepts:
+- Queue (FIFO)
+- Enqueue & Dequeue
+- Stack vs Queue behavior
+- Logical comparison
+
+### Data Structures:
+Queue, Stack
+
+
+
+
+
+## UC7: Deque-Based Optimized Palindrome Checker
+
+### Goal:
+Use Deque to compare front and rear elements.
+
+### Flow:
+- Insert characters into deque
+- Remove first & last
+- Compare until empty
+
+### Key Concepts:
+- Deque (Double Ended Queue)
+- Front & Rear comparison
+- Optimized approach (no extra structures)
+
+### Data Structure:
+Deque
