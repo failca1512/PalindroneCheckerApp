@@ -124,3 +124,22 @@ Use Deque to compare front and rear elements.
 
 ### Data Structure:
 Deque
+
+## UC8: Linked List Based Palindrome Checker
+
+### Goal:
+Check palindrome using singly linked list.
+
+### Flow:
+- Convert string to linked list
+- Reverse second half
+- Compare halves
+
+### Key Concepts:
+- Singly Linked List
+- Node Traversal
+- Fast & Slow Pointer
+- In-place reversal
+
+### Data Structure:
+Linked List
